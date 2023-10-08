@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @Sultan Kh0sA
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Machine Learning
-- 📫 Shayatani75@gmail.com ...
+# Hi, I'm Sultan Khosa 👋
 
-<!---
-SultanKh0sA/SultanKh0sA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Django developer with a love for creating web applications. I have a strong foundation in Python and Django, and I enjoy solving complex problems and building elegant solutions.
+
+## What I Do
+
+- 💻 I develop web applications using Django and Python.
+- 📚 I'm constantly learning and staying up-to-date with the latest web development trends.
+- 🔍 I enjoy troubleshooting and finding efficient solutions to technical challenges.
+
+## Get in Touch
+
+If you'd like to collaborate on a project, have a question, or just want to say hello, feel free to reach out:
+
+- 📧 Email: shayatani75@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/muhammad-sultan-686145186/
+Thanks for visiting my GitHub profile! 🚀
